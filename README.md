@@ -5,5 +5,3 @@
 </div>
 
 ### Hello, I'm Guilherme Gatto, iOS mobile sowtware engieneer.
-
-
